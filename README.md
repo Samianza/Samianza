@@ -21,9 +21,9 @@ Mais do que focar apenas no resultado final, valorizo a experimentação, a docu
 ## Abordagem
 Explorar → Construir → Analisar → Documentar
 
-Bonito é melhor que feio.
-Explícito é melhor que implícito.
-Simplicidade é melhor que complexidade.
-Complexo é melhor que complicado
+- Bonito é melhor que feio.
+- Explícito é melhor que implícito.
+- Simplicidade é melhor que complexidade.
+- Complexo é melhor que complicado
 
 *Aprendizado na prática.*
