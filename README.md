@@ -1,16 +1,24 @@
-## Hi there 👋
+# Soldhallas
 
-<!--
-**Samianza/Samianza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sistemas · Segurança · Pesquisa · Desenvolvimento
 
-Here are some ideas to get you started:
+Tenho interesse em entender como os sistemas funcionam por baixo dos panos, explorar conceitos de segurança e construir projetos práticos no processo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mais do que focar apenas no resultado final, valorizo a experimentação, a documentação e a compreensão das decisões técnicas por trás de cada implementação.
+
+## Áreas de Interesse
+- Segurança da Informação
+- Sistemas Operacionais e Arquitetura Interna (*System Internals*)
+- Programação em Python e C
+- OSINT e Investigação Digital
+- Automação e Desenvolvimento de Software
+
+## Atualmente
+- Construindo projetos pessoais e experimentos técnicos
+- Explorando o comportamento de sistemas e conceitos de segurança
+- Documentando meu processo de aprendizado e descobertas
+
+## Abordagem
+Explorar → Construir → Analisar → Documentar
+
+*Aprendizado na prática.*
